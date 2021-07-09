@@ -10,7 +10,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   cron:
@@ -40,5 +40,5 @@ jobs:
         git config user.email "abdulmuttaqin456@gmail.com"
         git add -A
         timestamp=$(date '+%F %H:%M:%S %Z')
-        git commit -m "Latest data from ${timestamp}" || exit 0
+        git commit -m "Update Data 😁 ${timestamp}" || exit 0
         git push
