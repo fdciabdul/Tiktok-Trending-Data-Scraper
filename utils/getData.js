@@ -66,7 +66,7 @@ module.exports = async () => {
             })
         })
     
-        return fs.writeFileSync(`../${type}.json`, JSON.stringify(tempArray, null, 2), tempArray)
+        return fs.writeFileSync(`../data/${type}.json`, JSON.stringify(tempArray, null, 2), tempArray)
     })
 
 }
