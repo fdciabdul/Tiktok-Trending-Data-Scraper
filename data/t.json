@@ -75,7 +75,7 @@
       },
       "stats": {
         "followers": 25100000,
-        "likes": 853300000
+        "likes": 853500000
       }
     },
     {
@@ -101,7 +101,7 @@
       },
       "stats": {
         "followers": 4700000,
-        "likes": 92600000
+        "likes": 92900000
       }
     },
     {
@@ -179,7 +179,7 @@
       },
       "stats": {
         "followers": 12200000,
-        "likes": 418400000
+        "likes": 418600000
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "stats": {
         "followers": 15900000,
-        "likes": 640000000
+        "likes": 640100000
       }
     },
     {
@@ -231,7 +231,7 @@
       },
       "stats": {
         "followers": 20800000,
-        "likes": 700300000
+        "likes": 700400000
       }
     },
     {
@@ -283,7 +283,7 @@
       },
       "stats": {
         "followers": 16500000,
-        "likes": 294300000
+        "likes": 294400000
       }
     },
     {
@@ -439,7 +439,7 @@
       },
       "stats": {
         "followers": 21500000,
-        "likes": 578100000
+        "likes": 578200000
       }
     },
     {
@@ -491,7 +491,7 @@
       },
       "stats": {
         "followers": 5600000,
-        "likes": 85300000
+        "likes": 85400000
       }
     },
     {
@@ -517,7 +517,7 @@
       },
       "stats": {
         "followers": 18700000,
-        "likes": 360500000
+        "likes": 360600000
       }
     },
     {
@@ -569,7 +569,7 @@
       },
       "stats": {
         "followers": 15900000,
-        "likes": 284400000
+        "likes": 284500000
       }
     },
     {
@@ -595,7 +595,7 @@
       },
       "stats": {
         "followers": 11800000,
-        "likes": 668800000
+        "likes": 668900000
       }
     },
     {
@@ -673,7 +673,7 @@
       },
       "stats": {
         "followers": 28400000,
-        "likes": 412100000
+        "likes": 412200000
       }
     },
     {
@@ -725,7 +725,7 @@
       },
       "stats": {
         "followers": 10500000,
-        "likes": 236100000
+        "likes": 236200000
       }
     },
     {
@@ -751,18 +751,27 @@
       },
       "stats": {
         "followers": 7100000,
-        "likes": 248200000
+        "likes": 248300000
       }
     }
   ],
   "hashtag": [
+    {
+      "challengeId": "1209843",
+      "description": "October 11th is Indigenous Peoples Day, and we're putting the spotlight on the incredible cultures, languages and achievements of Native American people. From incredible creators reaching new heights, to artists sharing their vision, support our community and celebrate #IndigenousDay.",
+      "name": "#indigenousday",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/be8d78a496513630ddbf0c9d0252f07f",
+      "stats": {
+        "views": 1500000000
+      }
+    },
     {
       "challengeId": "1175429",
       "description": "Whether it's sharing your story, showing your support, or spreading acceptance, here's to creating a culture where everyone is free to be their authentic self.",
       "name": "#comingoutday",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/47fa909569d77ad10b3f93728b54aa5c",
       "stats": {
-        "views": 33400000
+        "views": 33900000
       }
     },
     {
@@ -798,7 +807,7 @@
       "name": "#pov",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4cbd661d71e6e76b01ba68757f3a02da",
       "stats": {
-        "views": 385100000000
+        "views": 385200000000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#ourtable",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4ff1beffa4d95d36100cb008bd74e1f5",
       "stats": {
-        "views": 382300000
+        "views": 383400000
       }
     },
     {
@@ -834,16 +843,7 @@
       "name": "#latinxcreated",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3525e9de60e069d1e371b9d3aab6ea55",
       "stats": {
-        "views": 709100000
-      }
-    },
-    {
-      "challengeId": "14238",
-      "description": "This is the story about a girl named #Lucky.",
-      "name": "#lucky",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/6d502c054e76931e2a0266e55a14823b",
-      "stats": {
-        "views": 7500000000
+        "views": 710300000
       }
     }
   ],
@@ -870,7 +870,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3e279ff71b8c429dbb625d4132056e21"
       },
       "stats": {
-        "posts": 870900
+        "posts": 870800
       }
     },
     {
@@ -995,7 +995,7 @@
         "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/801988dded3f4f05853ee23c3a242345"
       },
       "stats": {
-        "posts": 677700
+        "posts": 677600
       }
     },
     {
