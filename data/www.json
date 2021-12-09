@@ -672,7 +672,7 @@
         }
       },
       "stats": {
-        "followers": 974400,
+        "followers": 974800,
         "likes": 1800000
       }
     },
@@ -757,6 +757,15 @@
   ],
   "hashtag": [
     {
+      "challengeId": "43607592",
+      "description": "Show us your #HolidayAesthetic.",
+      "name": "#holidayaesthetic",
+      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/cfde7e1f9589026a470024bf3f333a13",
+      "stats": {
+        "views": 3500000
+      }
+    },
+    {
       "challengeId": "9752702",
       "description": "Grab your books and study with us.",
       "name": "#studywithme",
@@ -771,7 +780,7 @@
       "name": "#unlockit",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/9a10335920791211a401d7c7b8747e50",
       "stats": {
-        "views": 138100000
+        "views": 138800000
       }
     },
     {
@@ -807,7 +816,7 @@
       "name": "#fashionhistory",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/3b27f1c20bb901bc21e054eeee75eb5d",
       "stats": {
-        "views": 432600000
+        "views": 432900000
       }
     },
     {
@@ -816,7 +825,7 @@
       "name": "#unrealisticthings",
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/e2ca17e6c807f276a3e8e1f40530dd6b",
       "stats": {
-        "views": 127300000
+        "views": 128000000
       }
     },
     {
@@ -835,15 +844,6 @@
       "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/5e34dd7935be353c0e100e6f28d17839",
       "stats": {
         "views": 3500000000
-      }
-    },
-    {
-      "challengeId": "3506245",
-      "description": "We're officially counting down to the holidays.",
-      "name": "#holidaycountdown",
-      "avatar": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/0d60b6d1e17ad93e02c27c5d19837ce1",
-      "stats": {
-        "views": 8600000000
       }
     }
   ],
@@ -1002,16 +1002,16 @@
       "musicId": "6754420279457565445",
       "avatar": {
         "jpeg": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.jpeg"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_100x100.jpeg",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_300x300.jpeg",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_720x720.jpeg",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_1080x1080.jpeg"
         },
         "webp": {
-          "small": "https://p16.tiktokcdn.com/aweme/100x100/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "medium": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "big": "https://p16.tiktokcdn.com/aweme/720x720/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp",
-          "large": "https://p16.tiktokcdn.com/aweme/1080x1080/tos-alisg-v-2102/8059383cc61649e584c9f75fcbc29c5f.webp"
+          "small": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_100x100.webp",
+          "medium": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_300x300.webp",
+          "big": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_720x720.webp",
+          "large": "https://p16.tiktokcdn.com/img/tos-useast2a-v-2774/108329f3b2784a8e8c8d2aeb32350b29~c5_1080x1080.webp"
         }
       },
       "musicInfo": {
