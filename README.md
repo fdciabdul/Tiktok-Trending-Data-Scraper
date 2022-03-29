@@ -5,3 +5,4 @@ Tiktok Trending Data Scraper
 
 All output is JSON file in `data` folder
 
+#Hctoberfest2021
